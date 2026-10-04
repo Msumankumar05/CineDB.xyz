@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  <a href="https://cine-dbase.vercel.app"><strong>🎬 Try CineDB Live →</strong></a>
+  <a href="https://cinedb.vercel.app"><strong>🎬 Try CineDB Live →</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://itsmsk.vercel.app/"><strong>👤 Developer Portfolio →</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -83,15 +83,24 @@ Click any cast member to visit their full profile:
 
 ### 📺 CineDB Stream Console
 Watch movies and TV episodes directly within the app via embedded third-party players:
-- Multiple source options
+- Multiple source options with automatic failover
 - Season and episode selector for TV series
 - Fullscreen support
+
+---
+
+### 🏏 Live Sports Scores
+CineDB includes a **live cricket scores** section powered by a real-time sports API:
+- Live match scores with ball-by-ball updates
+- Upcoming fixtures
+- Embedded live stream player with multiple server sources
 
 ---
 
 ### 🔐 Authentication System
 Secure, full-featured auth powered by **Firebase Authentication**:
 - Register with email & password
+- **Google OAuth** — sign in with one click
 - **Mandatory email verification** before accessing protected features
 - Login with session persistence
 - Forgot password flow with email reset
@@ -145,9 +154,9 @@ CineDB takes user data seriously:
 
 | Document | Link |
 |---|---|
-| Terms of Service | [cine-dbase.vercel.app/terms](https://cine-dbase.vercel.app/terms) |
-| Privacy Policy | [cine-dbase.vercel.app/privacy](https://cine-dbase.vercel.app/privacy) |
-| Contact | [cine-dbase.vercel.app/contact](https://cine-dbase.vercel.app/contact) |
+| Terms of Service | [cinedb.vercel.app/terms](https://cinedb.vercel.app/terms) |
+| Privacy Policy | [cinedb.vercel.app/privacy](https://cinedb.vercel.app/privacy) |
+| Contact | [cinedb.vercel.app/contact](https://cinedb.vercel.app/contact) |
 
 ---
 
@@ -155,7 +164,8 @@ CineDB takes user data seriously:
 
 What's coming next:
 
-- [ ] **Social Login** — Sign in with Google or GitHub
+- [x] **Social Login** — Sign in with Google OAuth ✅
+- [ ] **GitHub OAuth** — Sign in with GitHub
 - [ ] **Shareable Watchlists** — Share your list via a public link
 - [ ] **Episode Notifications** — Get alerted when a new episode drops for a series you follow
 - [ ] **Advanced Search Filters** — Year range, rating, language, runtime
@@ -173,8 +183,6 @@ Built by **Makoju Suman Kumar** — Full-Stack Developer & Designer.
 | 📧 Email | [ms.kumar.developer05@gmail.com](mailto:ms.kumar.developer05@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/itsmskdev](https://www.linkedin.com/in/itsmskdev/) |
 | 🐙 GitHub | [github.com/Msumankumar05](https://github.com/Msumankumar05) |
-| 📸 Instagram | [instagram.com/suman_k_72](https://www.instagram.com/suman_k_72/) |
-| 🛒 Fiverr | [fiverr.com/s/X0LbQEP](https://www.fiverr.com/s/X0LbQEP) |
 
 ---
 
@@ -188,7 +196,7 @@ This showcase is provided for viewing and evaluation purposes. The source code, 
 
 <div align="center">
   <br />
-  <a href="https://cine-dbase.vercel.app"><strong>🎬 Launch CineDB</strong></a>
+  <a href="https://cinedb.vercel.app"><strong>🎬 Launch CineDB</strong></a>
   <br /><br />
   Built with ❤️ by <a href="https://itsmsk.vercel.app/">Makoju Suman Kumar</a>
 </div>
