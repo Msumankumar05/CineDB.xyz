@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  <a href="https://cinedb.vercel.app"><strong>🎬 Try CineDB Live →</strong></a>
+  <a href="https://cinedb.xyz"><strong>🎬 Try CineDB Live →</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://itsmsk.vercel.app/"><strong>👤 Developer Portfolio →</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -154,9 +154,9 @@ CineDB takes user data seriously:
 
 | Document | Link |
 |---|---|
-| Terms of Service | [cinedb.vercel.app/terms](https://cinedb.vercel.app/terms) |
-| Privacy Policy | [cinedb.vercel.app/privacy](https://cinedb.vercel.app/privacy) |
-| Contact | [cinedb.vercel.app/contact](https://cinedb.vercel.app/contact) |
+| Terms of Service | [cinedb.xyz/terms](https://cinedb.xyz/terms) |
+| Privacy Policy | [cinedb.xyz/privacy](https://cinedb.xyz/privacy) |
+| Contact | [cinedb.xyz/contact](https://cinedb.xyz/contact) |
 
 ---
 
@@ -196,7 +196,7 @@ This showcase is provided for viewing and evaluation purposes. The source code, 
 
 <div align="center">
   <br />
-  <a href="https://cinedb.vercel.app"><strong>🎬 Launch CineDB</strong></a>
+  <a href="https://cinedb.xyz"><strong>🎬 Launch CineDB</strong></a>
   <br /><br />
   Built with ❤️ by <a href="https://itsmsk.vercel.app/">Makoju Suman Kumar</a>
 </div>
