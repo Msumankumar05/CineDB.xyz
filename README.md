@@ -260,55 +260,7 @@ CineDB/
 │       └── seo.js              # CineDBSEOManager programmatic SEO engine
 ├── firestore.rules             # Cloud Firestore security policy
 ├── vercel.json                 # Headers, cache policies, and SPA rewrites
-└── vite.config.js              # Vite build setup with chunk splitting
-```
-
----
-
-## 🛠️ Local Setup & Deployment
-
-### Prerequisites
-- **Node.js:** v18.0.0 or higher
-- **NPM:** v9.0.0 or higher
-- **TMDB API Key:** Available at [themoviedb.org](https://developer.themoviedb.org/docs/getting-started)
-- **Firebase Project:** With Authentication and Firestore enabled
-
-### Installation
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/Msumankumar05/CineDB.git
-cd CineDB
-
-# 2. Install dependencies
-npm install
-
-# 3. Configure environment variables
-cp .env.example .env
-```
-
-Add your keys to `.env`:
-```env
-VITE_TMDB_API_KEY=your_tmdb_api_key_here
-VITE_FIREBASE_API_KEY=your_firebase_api_key
-VITE_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
-VITE_FIREBASE_PROJECT_ID=your_project_id
-VITE_CRICAPI_KEY=your_optional_cricapi_key
-```
-
-### Development & Production
-
-```bash
-# Start local dev server
-npm run dev
-
-# Compile production bundle and generate sitemap
-npm run build
-
-# Preview production build locally
-npm run preview
-```
-
+└── vite.config.js              # Vite build 
 ---
 
 ## 🗺️ Roadmap & Milestones
