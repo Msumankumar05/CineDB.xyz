@@ -82,7 +82,7 @@ Everything is wrapped in a custom OLED-dark interface with a gold accent system,
 |---|---|
 | 🎧 **Original audio by default** | "Original" resolves to each title's TMDB `original_language`; foreign films no longer start on the English dub. |
 | 💬 **Subtitle language control** | A first-class subtitle picker (English default-on, 17 languages + source default/off) with automatic routing to the only mirror that honours subtitle parameters. |
-| 🛰️ **Eight-mirror failover engine** | 10s load timeout, 6s reachability preflight, 15s stuck-stream watchdog, silent auto-rotation, and a full retry. Mirror names stay hidden from viewers. |
+| 🛰️ **Eight-mirror failover engine** | 10s load timeout, 6s post-timeout reachability probe, 15s stuck-stream watchdog, silent auto-rotation, and a full retry. Mirror names stay hidden from viewers. |
 | 🇮🇳 **India-first catalogue** | Dedicated Telugu, Hindi, Tamil, Malayalam, and combined Indian cinema hubs, plus regional TV series. |
 | 🎯 **Three-tab recommendations** | *Recommended For You*, *Similar Titles*, and *Top Rated* with carousel and grid modes. |
 | ☁️ **Cloud watchlist + history** | Firestore-backed watchlist and watch history; TV cards record and display the last watched season and episode. |
